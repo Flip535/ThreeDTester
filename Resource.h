@@ -21,6 +21,7 @@
 #define IDC_BUTTON2                     1015
 
 // Next default values for new objects
+// master
 // test
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
