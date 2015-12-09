@@ -19,6 +19,7 @@
 #define IDC_W                           1012
 #define IDC_H                           1013
 #define IDC_BUTTON2                     1015
+#define TEST							1016
 
 // Next default values for new objects
 // master
