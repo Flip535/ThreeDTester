@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreeDTester", "ThreeDTester.vcproj", "{1CB6A843-2D18-417E-AC25-93DBF8ED96FE}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreeDTester", "ThreeDTester.vcxproj", "{1CB6A843-2D18-417E-AC25-93DBF8ED96FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
